@@ -4,6 +4,8 @@ A história gira em torno de Quentin Jacobsen (Q), um adolescente comum que é a
 
 A trama se desenrola quando Margo desaparece misteriosamente após uma noite de aventuras com Q, deixando para trás uma série de pistas enigmáticas. Determinado a encontrá-la, Quentin se envolve em uma jornada emocionante e desafiadora, seguindo as pistas que Margo deixou para trás, enquanto reflete sobre suas próprias expectativas e ideais em relação a ela.
 
+A história explora temas como identidade, amizade, amor, a busca pelo significado e a diferença entre percepção e realidade.
+
 ### Frases 
 
 Aqui
@@ -16,6 +18,6 @@ Aqui
 
 Aqui
 
-### Conclusão
+### Notas pessoais
 
 Aqui
