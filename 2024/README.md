@@ -1,6 +1,6 @@
 ## 2024
 
-> 📝 "Um livro é um presente que você pode abrir várias vezes" - Garrison Keillor
+> 📝 "Um quarto sem livros é como um corpo sem alma." - Cícero
 
 Este README lista os livros que li ao longo do ano de 2024. Cada livro ofereceu uma experiência única e enriquecedora, explorando uma variedade de gêneros e temas.
 
@@ -10,11 +10,11 @@ Este ano pensei em adquirir loucamente todos os livros que já li em ```pdf```, 
 
 Aqui está a lista dos livros que li em 2024 e talvez antes, sem nenhuma ordem específica.
 
-- **Cidades de Papel**;
+- **[Cidades de Papel](https://github.com/euotiniel/books/tree/main/2024/cidades_de_papel)**;
 
-- **Revolução dos bichos**;
+- **[Revolução dos bichos](https://github.com/euotiniel/books/tree/main/2024/revolucao_dos_bichos)**;
 
-- **As vantagens de ser invisível**;
+- **[As vantagens de ser invisível](https://github.com/euotiniel/books/tree/main/2024/as_vantagens_de_ser_invisivel)**;
 
 ### Autores
 
@@ -23,7 +23,5 @@ Achei interessante listar os autores dessas obras de arte, talvez você se inter
 - **John Green** (1 livro);
 - **George Orwell** (1 livro);
 - **Stephen Chbosky** (1 livro);
-
-
 
 

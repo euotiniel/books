@@ -1,6 +1,6 @@
 ## 2023
 
-> 📝 "Um quarto sem livros é como um corpo sem alma." - Cícero
+> 📝 "Um livro é um presente que você pode abrir várias vezes" - Garrison Keillor
 
 Este README lista os livros que li ao longo do ano de 2023. Cada livro ofereceu uma experiência única e enriquecedora, explorando uma variedade de gêneros e temas.
 
@@ -10,13 +10,13 @@ Começo com 2023 por ser um ano em que mais ou menos passei a ler mais, apesar d
 
 Aqui está a lista dos livros que li em 2023 e talvez antes, sem nenhuma ordem específica.
 
-- **A culpa é das estrelas**;
+- **[A culpa é das estrelas](https://github.com/euotiniel/books/tree/main/2023/a_culpa_e_das_estrelas)**;
 
-- **O teorema de Katherine**;
+- **[O teorema de Katherine](https://github.com/euotiniel/books/tree/main/2023/o_teorema_de_katherine)**;
 
-- **Quem é você Alasca?**;
+- **[Quem é você Alasca?](https://github.com/euotiniel/books/tree/main/2023/quem_e_voce_alasca)**;
 
-- **E o céu mudou de cor**;
+- **[E o céu mudou de cor](https://github.com/euotiniel/books/tree/main/2023/e_o_ceu_mudou_de_cor)**;
 
 ### Autores
 
