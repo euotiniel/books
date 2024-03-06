@@ -12,5 +12,5 @@ Bem-vindo à minha biblioteca de leitura! Aqui eu guardo todos os livros que já
 
 ---
 
-Livros, livros, eu amo ler e amo livros.
+Livros, livros, eu gosto de ler e amo livros.
 
