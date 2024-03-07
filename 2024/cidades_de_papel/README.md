@@ -8,15 +8,28 @@ A história explora temas como identidade, amizade, amor, a busca pelo significa
 
 ### Frases 
 
-Aqui
+- "As pessoas são o lugar, e o lugar é as pessoas.";
+
+- "Por vezes fazer as coisas não é tão bom quanto imaginá-las.";
+
+- "A imaginação não é perfeita. Não dá para mergulhar por inteiro dentro de outra pessoa.";
+
+- "Às vezes o jeito como a gente pensa em alguém não é exatamente o jeito como essa pessoa é.";
+
+- "É muito fácil gostar de alguém a distância. Mas, quando ela deixou de ser aquela coisa maravilhosa e inatingível, eu basicamente tive que começar a gostar de uma pessoa completamente diferente.";
 
 ### Palavras
 
-Aqui
+> Não tenho muitas notas sobre palavras dispíveis por agora
 
 ### Outros 
 
-Aqui
+#### Músicas
+
+- Stars Fell on Alabama;
+- This Land Is Your Land;
+- Love Supreme - John Coltrane;
+- Walt Whitman’s Niece.
 
 ### Notas pessoais
 

@@ -9,11 +9,24 @@ O livro explora temas como poder, corrupção, manipulação, propaganda e a nat
 
 ### Frases 
 
-Aqui
+- "A lealdade e a obediência são mais importantes.";
+
+- "O Homem é a única criatura que consome sem produzir. Não dá leite, não põe ovos, é fraco demais para puxar o arado, não corre o suficiente para alcançar uma lebre. Mesmo assim, é o senhor de todos os animais.";
+
+- "O Homem não busca interesses que não os dele próprio.";
+
+- "Guerra é guerra. Ser humano bom ser humano morto.";
+
+- "Trabalharei ainda mais.";
+
+- "Havia chegado uma época em que ninguém ousava dizer o que pensava.";
+
+- "Mas já era impossível distinguir quem era homem, quem era porco.";
+
 
 ### Palavras
 
-Aqui
+> Não tenho muitas notas sobre palavras dispíveis por agora
 
 ### Outros 
 

@@ -6,10 +6,11 @@ Stephen Chbosky aborda temas como adolescência, solidão, amizade, amor, identi
 
 ### Frases 
 
-- "A gente aceita o amor que acha que merece";
+- "A gente aceita o amor que acha que merece.";
 
-- "Nem todo mundo tem uma história triste, Charlie, mesmo que tivesse, isso não é desculpa";
+- "Nem todo mundo tem uma história triste, Charlie, mesmo que tivesse, isso não é desculpa.";
 
+- "Tudo isso parece muito familiar. Mas eu não estou familiarizado com isso.";
 
 ### Palavras
 
@@ -19,10 +20,22 @@ Algumas palavras que eu não conhecia ou não sabia o real significado:
 
 - **Austero**: descreve algo ou alguém que é sério, rígido, simples e sem adornos excessivos. Uma pessoa austera pode ser alguém que vive de forma simples, sem luxos ou extravagâncias.
 
+- **Auspicioso**: refere-se a algo que é promissor, favorável ou que traz bons presságios. Quando algo é descrito como auspicioso, geralmente significa que é propício para o sucesso, bom desenvolvimento ou boas oportunidades. 
+
+- **Desbotado**: é um adjetivo que descreve algo que perdeu sua cor ou brilho original devido à exposição prolongada ao sol, água ou outros elementos. 
 
 ### Outros 
 
-Aqui
+#### Músicas
+
+- Asleep - The Smiths;
+- Vapour Traip - Ride;
+- Time of No Reply - Nick Drake;
+- Dear Prudence - Beatles;
+- MLK - U2;
+- Blackbird - Beatles.
+
+> Ainda não ouvi todas (07/03/2024), mas vamos a isso!
 
 ### Notas pessoais
 
