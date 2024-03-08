@@ -30,6 +30,12 @@ Algumas palavras que eu não conhecia ou não sabia o real significado:
 
 - **Desbotado**: é um adjetivo que descreve algo que perdeu sua cor ou brilho original devido à exposição prolongada ao sol, água ou outros elementos. 
 
+- **Represália**: é uma ação tomada em resposta a uma ação anterior, geralmente negativa ou hostil. É uma forma de retaliação ou vingança em que alguém responde a um ato ofensivo, prejudicial ou injusto com uma ação semelhante.
+
+- **Toldou**: é uma forma verbal do verbo "toldar", que pode ser usada no sentido figurado para indicar que algo obscureceu ou nublou algo, especialmente o entendimento ou o julgamento de alguém.
+
+- **Frenética**: é um adjetivo que descreve algo ou alguém que está agitado, agitado ou em um estado de grande atividade ou excitação.
+
 ### Outros 
 
 #### Músicas
