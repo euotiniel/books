@@ -51,7 +51,7 @@ Algumas palavras que eu não conhecia ou não sabia o real significado:
 
 ### Notas pessoais
 
-Terminei de ler o livro hoje, uma sexta-feira, dia 08 de Março de 2023. O livro foi um sugestão de minha colega @DeniziaFernanda. A gente troca muitas ideias sobre livro.
+Terminei de ler o livro hoje, uma sexta-feira, dia 08 de Março de 2024. O livro foi um sugestão de minha colega @DeniziaFernanda. A gente troca muitas ideias sobre livros.
 
 O livro me fez querer escrever uma espécie de cartas para mim mesmo, mas ainda não sei se sigo em frente com isso. O livro é ótimo, fez-me pensar que deveria "participar" mais. É legal saber das imensas coisas que eles fazem em suas vidas (apesar de serem apenas personagens), como ficar chapado 😂. Acho que Charlie chorava de mais e era meio maluco, mas foi bem interessante embarcar nessa aventura! 
 
